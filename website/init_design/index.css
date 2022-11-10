@@ -1,10 +1,16 @@
-body{
-    background-color: rgb(255, 244, 183);
+body {
+  background-color: rgb(255, 244, 183);
 }
-.content{
-    margin: 10px;
+.content {
+  margin: 10px 30px 10px 30px;
 }
 
-.btn{
-    margin-top: 20px;
+.btn {
+  margin-top: 20px;
+}
+
+.main-title {
+  text-align: center;
+  padding-bottom: 3%;
+  margin-top: 2%;
 }
