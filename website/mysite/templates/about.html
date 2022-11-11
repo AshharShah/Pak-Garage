@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Pak Garage - About</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/about.css' %}" />
+    {% load static %}
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="{% static 'img/apple-touch-icon.png' %}"
+    />
+    {% load static %}
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="{% static 'img/favicon-32x32.png' %}"
+    />
+    {% load static %}
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="{% static 'img/favicon-16x16.png' %}"
+    />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          {% load static %}
+          <img
+            src="{% static 'img/favicon-32x32.png' %}"
+            alt=""
+            width="40"
+            height="30"
+            class="d-inline-block align-text-top"
+          />Pak Garage
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarScroll"
+          aria-controls="navbarScroll"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarScroll">
+          <ul
+            class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
+            style="--bs-scroll-height: 100px"
+          >
+            <li class="nav-item">
+              <a
+                class="nav-link active"
+                aria-current="page"
+                href="{% url 'index' %}"
+                >Home</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link active"
+                aria-current="page"
+                href="{% url 'about' %}"
+                >About</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm about_col">
+          <h1>About Pak Garage</h1>
+          <p>
+            Pak Garage is transforming the way used-cars are traded in Pakistan.
+            Car owners can now easily sell their cars through our secure,
+            convenient, and hassle-free process. Those who wish to sell their
+            cars and dont know how much to sell them for in the current market
+            can use our service to get an close approximation for the selling
+            price of their vehicle or if someone wishes to by a used vehicle and
+            wants to determine if the dealer is trying to scam him out of money
+            he can use our service to compare how much the vehicle should cost
+            and the price at which it is being sold.
+          </p>
+        </div>
+        <div class="col-sm">
+          <div class="card-container">
+            <div class="upper-container">
+              <div class="image-container">
+                <img
+                  src="https://avatars.githubusercontent.com/u/76205185?v=4"
+                />
+              </div>
+            </div>
+
+            <div class="lower-container">
+              <div>
+                <h3>Ashhar Shah</h3>
+                <h4>Full Stack Developer</h4>
+              </div>
+              <div>
+                <p>
+                  I am a Computer Science student with a passion for developing
+                  applications using various tools and technologies.
+                </p>
+              </div>
+              <div>
+                <a href="https://github.com/AshharShah" class="btn"
+                  >View profile</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
