@@ -22,5 +22,7 @@ Result Page
 ---
 
 ## Application Video:
-[![IMAGE ALT TEXT HERE](https://imgur.com/a/MPl44cf)](https://youtu.be/TjUBHwLcvrc)
+<a href="https://www.youtube.com/watch?v=TjUBHwLcvrc" target="_blank">
+ <img src="https://imgur.com/a/MPl44cf" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
