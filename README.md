@@ -22,5 +22,5 @@ Result Page
 ---
 
 ## Application Video:
-[![Everything Is AWESOME](https://imgur.com/a/MPl44cf)](https://youtu.be/TjUBHwLcvrc "Everything Is AWESOME")
+[![IMAGE ALT TEXT HERE](https://imgur.com/a/MPl44cf)](https://youtu.be/TjUBHwLcvrc)
 
