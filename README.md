@@ -11,15 +11,16 @@ This Required:
 7) Transmission
 
 # Screenshots:
-<hr>
-## Home Page
+---
+Home Page
 ![HomePage](https://user-images.githubusercontent.com/76205185/201467119-dce3c6e0-731a-4edf-9f09-c9287cedd819.png)
-<hr>
-## About Page
+---
+About Page
 ![AboutPage](https://user-images.githubusercontent.com/76205185/201467130-894098c4-5fda-429e-8d09-dc06cf5588be.png)
-<hr>
-## Result Page
+---
+Result Page
 ![Result](https://user-images.githubusercontent.com/76205185/201467146-ea221b39-8d1b-42d3-ad14-13d08bb5defe.png)
+---
 
 # Application Video:
 https://youtu.be/TjUBHwLcvrc
