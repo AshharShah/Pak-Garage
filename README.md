@@ -23,6 +23,5 @@ Result Page
 
 ## Application Video:
 <a href="https://www.youtube.com/watch?v=TjUBHwLcvrc" target="_blank">
- <img src="https://imgur.com/a/MPl44cf" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://user-images.githubusercontent.com/76205185/201467786-b8ebdbf8-b4bd-4132-b05c-252fa4a3db34.png" alt="Watch the video" width="240" height="180" border="10" />
 </a>
-
