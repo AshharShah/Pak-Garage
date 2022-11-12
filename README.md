@@ -6,9 +6,10 @@ This Required:
 2) Model Year
 3) Mileage
 4) Engine Capacity
-5) Engine Type
-6) Body Type
-7) Transmission
+5) City of Registration
+7) Engine Type
+8) Body Type
+9) Transmission
 
 ## Screenshots:
 Home Page
