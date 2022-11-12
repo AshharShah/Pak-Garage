@@ -10,8 +10,7 @@ This Required:
 6) Body Type
 7) Transmission
 
-# Screenshots:
----
+## Screenshots:
 Home Page
 ![HomePage](https://user-images.githubusercontent.com/76205185/201467119-dce3c6e0-731a-4edf-9f09-c9287cedd819.png)
 ---
@@ -22,5 +21,6 @@ Result Page
 ![Result](https://user-images.githubusercontent.com/76205185/201467146-ea221b39-8d1b-42d3-ad14-13d08bb5defe.png)
 ---
 
-# Application Video:
-https://youtu.be/TjUBHwLcvrc
+## Application Video:
+[![Everything Is AWESOME](https://imgur.com/a/MPl44cf)](https://youtu.be/TjUBHwLcvrc "Everything Is AWESOME")
+
